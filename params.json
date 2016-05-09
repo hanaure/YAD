@@ -1,6 +1,6 @@
 {
   "name": "Yad",
   "tagline": "Instruções Básicas para Uso do YAD ",
-  "body": "#Instruções para o uso do YAD\r\n\r\n* Contagem regressiva para fechar a janela (5 segundos)\r\n\r\n## --timeout=5\\\r\n\r\n* Titulo da caixa de Diaologo\r\n\r\n## --title=\"Titulo Janela\"\\\r\n\r\n* Largura(800) e Altura(500) da janela\r\n\r\n## --width=800 --height=500 \\\r\n\r\n* Largura Borda da Janela\r\n\r\n## --image-on-top --borders=50 \\\r\n\r\n* inicia a caixa de dialogo no centro da tela\r\n\r\n## --center \r\n\r\n* Deixa a Caixa de Dialogo sem a decoração (basicamente o título com seus ícones)\r\n\r\n## --undecorated ",
+  "body": "# Instruções para o uso do YAD\r\n\r\n* Contagem regressiva para fechar a janela (5 segundos)\r\n\r\n## --timeout=5\\\r\n\r\n* Titulo da caixa de Diaologo\r\n\r\n## --title=\"Titulo Janela\"\\\r\n\r\n* Largura(800) e Altura(500) da janela\r\n\r\n## --width=800 --height=500 \\\r\n\r\n* Largura Borda da Janela\r\n\r\n## --image-on-top --borders=50 \\\r\n\r\n* inicia a caixa de dialogo no centro da tela\r\n\r\n## --center \r\n\r\n* Deixa a Caixa de Dialogo sem a decoração (basicamente o título com seus ícones)\r\n\r\n## --undecorated ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
